@@ -1,0 +1,6 @@
+[preload  storage="./data/bgimage/scene1.png"  ]
+[preload  storage="./data/fgimage/chara/1/カチカチカチカチ.png"  ]
+[preload  storage="./data/fgimage/chara/1/考えるなかむらたかや.png"  ]
+[preload  storage="./data/fgimage/chara/1/刀チラ見せ.png"  ]
+[preload  storage="./data/fgimage/default/TNTmanを探せ.png"  ]
+[return]
